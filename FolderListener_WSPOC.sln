@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderListener_WSPOC", "FolderListener_WSPOC.csproj", "{83E06D6C-2998-4E8B-BA4D-0BB8BC2A5F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = Proof-of-Concept: Folder Listener. WinService where it will listen to the folder for activity, and move the file to the next folder.
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E06D6C-2998-4E8B-BA4D-0BB8BC2A5F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E06D6C-2998-4E8B-BA4D-0BB8BC2A5F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E06D6C-2998-4E8B-BA4D-0BB8BC2A5F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E06D6C-2998-4E8B-BA4D-0BB8BC2A5F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F3A27AA-BD68-4D97-A150-DB8EF83E96AD}
+	EndGlobalSection
+EndGlobal
